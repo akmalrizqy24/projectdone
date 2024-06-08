@@ -33,7 +33,7 @@ if(isset($_GET['delete'])){
 
 </head>
 <body>
-
+<!-- Untuk membuat admin -->
 <?php include '../components/admin_header.php'; ?>
 
 <section class="accounts">
